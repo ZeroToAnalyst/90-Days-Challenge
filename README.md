@@ -1,2 +1,6 @@
-# 90-Days-Challenge
-Tracking my 90-day data analyst journey 🌱
+## 📅 Day 2 — Excel Expense Tracker
+
+✅ Explored Excel interface  
+✅ Added manual data  
+✅ Built simple IF logic  
+✅ Created first basic chart
